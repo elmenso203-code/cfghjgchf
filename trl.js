@@ -1,2 +1,2 @@
 // trl.js
-const webhookUrl = 'https://canary.discord.com/api/webhooks/1437272517256544368/JxePzdlpJaRw4f0hkU0aZeVziGAbI2UIsCnrH23Gf5APSiiG1Vz6rX2i3zVvvQu8r8dM'; // Reemplaza esto con tu Webhook real
+const webhookUrl = 'https://canary.discord.com/api/webhooks/1437850775765258432/vzpLNY_XQcchKBv4zkCLYiK0Efbo-RZ9eGQK1m3tgz_RVayhbCZ5x9uORmWEXvR0YTb6'; // Reemplaza esto con tu Webhook real
